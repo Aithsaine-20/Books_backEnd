@@ -24,15 +24,3 @@ public class TpRestApplication implements CommandLineRunner {
 
     }
 }
-/*
-Book book1 = new Book();
-book1.setName("The Great Gatsby");
-book1.setISBN("978-3-16-148410-0");
-book1.setAuthor("F. Scott Fitzgerald");
-
-Book book2 = new Book();
-book2.setName("To Kill a Mockingbird");
-book2.setISBN("978-0-06-112008-4");
-book2.setAuthor("Harper Lee");
-
-* */
